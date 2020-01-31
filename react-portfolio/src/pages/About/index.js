@@ -2,12 +2,14 @@ import React from "react";
 import Grid, { Container, Row, Col } from "../../components/Grid";
 import Jumbotron from "../../components/Jumbotron";
 import picture from "../../images/IMG_5847.JPG";
-
+import Footer from "../../components/Footer";
+import "./style.css";
 
 
 export default function About() {
     
     return (
+        <>
         <Container>
             <Row>
                 <Col className="biography" size="md-12">
@@ -28,5 +30,7 @@ export default function About() {
             </section>
             <br></br>
         </Container>
+        <Footer />
+        </>
     );
 }

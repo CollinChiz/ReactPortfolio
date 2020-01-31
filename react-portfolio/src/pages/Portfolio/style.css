@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.text-uppercase {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;  
+}
+img {
+    height: 300px;
+    border-radius: 20px;
+}
+.card {
+    background-color: black;  
+    border-radius: 20px;
+    color: white;
+}
+.btn {
+    background-color: red;
+    color: black;
+    
+}
+.btn:hover {
+    color: white;
+}
+
