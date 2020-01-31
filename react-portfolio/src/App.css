@@ -28,6 +28,23 @@
   color: #61dafb;
 }
 
+.text-uppercase {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;  
+}
+
+.authimg {
+  float: left;
+  border: 3px solid black;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+.biography {
+  line-height: 3;
+  font-size: larger;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
