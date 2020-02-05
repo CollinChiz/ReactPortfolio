@@ -17,7 +17,7 @@ export default function Portfolio() {
                    <p className="warning"> site down until 2/7/2020 </p>
                    <p className="">this site is being re-deployed in react.js!</p>
             <Row>
-                <Col size="md-4 sm-6">
+                <Col size="lg-4 md-6">
                     <div className="card">
                         <img src="https://media.giphy.com/media/8rEB2xzZcZDnBegHFS/giphy.gif" alt="Whats In My Pantry"/>
 
@@ -34,7 +34,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </Col>
-                <Col size="md-4 sm-6">
+                <Col size="lg-4 md-6">
                     <div className="card">
                         <img src="https://media.giphy.com/media/Z9JpD7Dx7mwEfdiNs4/giphy.gif" alt="Golf Trivia"/>
                         <div className="card-body">
@@ -50,7 +50,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </Col>
-                <Col size="md-4 sm-6">
+                <Col size="lg-4 md-6">
                     <div className="card">
                     <img src="https://media.giphy.com/media/7E8lI6TkLrvvAcPXso/giphy.gif" alt="library"/>
                         <div className="card-body">
@@ -67,7 +67,7 @@ export default function Portfolio() {
                 </Col>
             </Row>
             <Row>
-                <Col size="md-4 sm-6">
+                <Col size="lg-4 md-6">
                 <div className="card">
                     <img src="https://media.giphy.com/media/k481R5ERN7jJm/giphy.gif" alt="giphy page"/>
                         <div className="card-body">
@@ -83,7 +83,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </Col>
-                <Col size="md-4 sm-6">
+                <Col size="lg-4 md-6">
                 <div className="card">
                     <img src="https://media.giphy.com/media/lELRD773cY7Sg/giphy.gif" alt="Word Guess"/>
                         <div className="card-body">
@@ -98,7 +98,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </Col>
-                <Col size="md-4 sm-6">
+                <Col size="lg-4 md-6">
                 <div className="card">
                     <img src="https://media.giphy.com/media/tKX6FNU9UGwF2/giphy.gif" alt="Train Scheduler"/>
                         <div className="card-body">
