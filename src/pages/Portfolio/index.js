@@ -51,6 +51,23 @@ export default function Portfolio() {
                 </Col>
                 <Col size="md-4 sm-6">
                     <div className="card">
+                    <img src="https://media.giphy.com/media/7E8lI6TkLrvvAcPXso/giphy.gif" alt="library"/>
+                        <div className="card-body">
+                            <h1 className="card-title">Google Book Search</h1>
+
+                            <p className="card-text">
+                                Google Book Search is an app that uses google's books api to search for a book by title and or author. Google Book Search uses mongodb to save a book in case you want to add that book to a reading list!
+                            </p>
+                            
+                            <a href="https://google-api-booksearch.herokuapp.com/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
+
+                        </div>
+                    </div>
+                </Col>
+            </Row>
+            <Row>
+                <Col size="md-4 sm-6">
+                <div className="card">
                     <img src="https://media.giphy.com/media/k481R5ERN7jJm/giphy.gif" alt="Word Guess"/>
                         <div className="card-body">
                             <h1 className="card-title">GifTastic!</h1>
