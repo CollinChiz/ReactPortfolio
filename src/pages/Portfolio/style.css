@@ -16,6 +16,7 @@ img {
     background-color: black;  
     border-radius: 20px;
     color: white;
+    margin-top: 15px;
 }
 .btn {
     background-color: red;
@@ -26,3 +27,8 @@ img {
     color: white;
 }
 
+.warning {
+    position: relative;
+    left: 80px;
+    color: black;
+  }
