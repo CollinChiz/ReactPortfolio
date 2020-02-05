@@ -28,6 +28,7 @@ export default function Nav() {
                 Portfolio
             </a>
           </li>
+
         </ul>
       </div>
     </nav>

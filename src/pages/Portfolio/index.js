@@ -27,7 +27,7 @@ export default function Portfolio() {
                                 and it will generate recipes that you can make with those ingredients. This is perfect if you are trying to save money and need to use what you have!
                             </p>
 
-                            <a href="whats-in-my-pantry.herokuapp.com" class="btn btn-primary">VISIT SITE</a>
+                            <a href="http://whats-in-my-pantry.herokuapp.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
                     </div>
@@ -42,7 +42,7 @@ export default function Portfolio() {
                                 Golf Trivia is a quick 5 question trivia game on the topic of golf. Play the game to find out how much you know!
                             </p>
 
-                            <a href="https://collinchiz.github.io/TriviaGame/" class="btn btn-primary">VISIT SITE</a>
+                            <a href="https://collinchiz.github.io/TriviaGame/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
                     </div>
@@ -58,7 +58,7 @@ export default function Portfolio() {
                                 Clicking on that button will then give you 10 gifs related to that key word.
                             </p>
                             
-                            <a href="https://collinchiz.github.io/GifTastic/" class="btn btn-primary">VISIT SITE</a>
+                            <a href="https://collinchiz.github.io/GifTastic/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
                     </div>
