@@ -24,6 +24,7 @@ export default function Footer(props) {
                 </Col>
                 <Col size="md-3">
                     <br></br>
+                    <br></br>
                 <p>Posted by: Collin Chisholm</p>
                 </Col>
             </Row>
