@@ -1,8 +1,6 @@
 import React from "react";
-import Grid, { Container, Row, Col } from "../../components/Grid";
-import Jumbotron from "../../components/Jumbotron";
+import  { Container, Row, Col } from "../../components/Grid";
 import picture from "../../images/senior_pic1.JPG";
-import Footer from "../../components/Footer";
 import "./style.css";
 
 
