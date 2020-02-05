@@ -16,7 +16,7 @@ export default function About() {
                     <h1 className="text-uppercase">Biography</h1>
                 </Col>
             </Row>
-            <section>
+            <div>
 
                 <img src={picture} alt="Collin Chisholm" name="auth-img" className="authimg"/>
 
@@ -27,10 +27,13 @@ export default function About() {
                         I want to become an entrepreneur but my dream job would be a PGA tour player.
                     </p>
 
-            </section>
+            </div>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <br></br>
         </Container>
-        <Footer />
         </>
-    );
+    )
 }

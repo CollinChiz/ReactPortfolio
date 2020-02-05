@@ -41,9 +41,10 @@ export default function Portfolio() {
                             <h1 className="card-title">Golf Trivia</h1>
 
                             <p className="card-text">
-                                Golf Trivia is a quick 5 question trivia game on the topic of golf. Play the game to find out how much you know!
+                                Golf Trivia is a quick 10 question trivia game on the topic of rules in golf. Play the game to find out how much you know!
                             </p>
-
+                            <br></br>
+                            <br></br>
                             <a href="https://collinchiz.github.io/TriviaGame/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
@@ -68,16 +69,46 @@ export default function Portfolio() {
             <Row>
                 <Col size="md-4 sm-6">
                 <div className="card">
-                    <img src="https://media.giphy.com/media/k481R5ERN7jJm/giphy.gif" alt="Word Guess"/>
+                    <img src="https://media.giphy.com/media/k481R5ERN7jJm/giphy.gif" alt="giphy page"/>
                         <div className="card-body">
                             <h1 className="card-title">GifTastic!</h1>
 
                             <p className="card-text">
                                 GifTastic is a small application that allows you to make a button with a keyword that you input.
-                                Clicking on that button will then give you 10 gifs related to that key word.
+                                Clicking on that button will then give you the 10 most popular gifs related to that key word using giphy api.
                             </p>
                             
                             <a href="https://collinchiz.github.io/GifTastic/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
+
+                        </div>
+                    </div>
+                </Col>
+                <Col size="md-4 sm-6">
+                <div className="card">
+                    <img src="https://media.giphy.com/media/lELRD773cY7Sg/giphy.gif" alt="Word Guess"/>
+                        <div className="card-body">
+                            <h1 className="card-title">Psychic Game!</h1>
+
+                            <p className="card-text">
+                                Psychic game is a small game where the objective is to guess what letter the computer is thinking of. You have 9 attempts to guess correctly. Are you psychic?
+                            </p>
+                            
+                            <a href="https://collinchiz.github.io/psychic-game/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
+
+                        </div>
+                    </div>
+                </Col>
+                <Col size="md-4 sm-6">
+                <div className="card">
+                    <img src="https://media.giphy.com/media/tKX6FNU9UGwF2/giphy.gif" alt="Train Scheduler"/>
+                        <div className="card-body">
+                            <h1 className="card-title">Train Scheduler</h1>
+
+                            <p className="card-text">
+                                Train Scheduler is an example application that takes the name of a train, the first train time, and the trains stop frequency. Then it uses your local time to calculate the next arrival and how many minutes until the trains arrival.
+                            </p>
+                            
+                            <a href="https://collinchiz.github.io/Train-Scheduler/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
                     </div>
