@@ -14,8 +14,6 @@ export default function Portfolio() {
                     </div>
                 </Col>
             </Row>
-                   <p className="warning"> site down until 2/7/2020 </p>
-                   <p className="">this site is being re-deployed in react.js!</p>
             <Row>
                 <Col size="lg-4 md-6">
                     <div className="card">
