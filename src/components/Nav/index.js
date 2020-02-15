@@ -17,6 +17,9 @@ export default function Nav() {
           <a className="nav-link" href="/portfolio">
                 Portfolio
           </a>
+          <a className="nav-link" href="/resume">
+            Resume
+          </a>
       </nav>
     )
 }
