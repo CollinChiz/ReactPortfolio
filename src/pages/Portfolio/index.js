@@ -63,8 +63,6 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </Col>
-            </Row>
-            <Row>
                 <Col size="lg-4 md-6">
                 <div className="card">
                     <img src="https://media.giphy.com/media/k481R5ERN7jJm/giphy.gif" alt="giphy page"/>

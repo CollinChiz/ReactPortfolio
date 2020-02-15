@@ -10425,7 +10425,7 @@ function () {
   }, {
     key: "numPages",
     get: function get() {
-      return this._pdfInfo.numPages;
+      return this._pdfInfo.numPages -1;
     }
   }, {
     key: "fingerprint",
