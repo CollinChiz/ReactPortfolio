@@ -8,7 +8,7 @@ class Resume extends Component {
             <div className="resume">
                 <PDFViewer
                   backend={PDFJSBackend}
-                  src='/Collin_Chisholm_-_Junior_Web_Developer.pdf'
+                  src='/Collin_Chisholm_Resume.pdf'
                 />
             </div>
         );

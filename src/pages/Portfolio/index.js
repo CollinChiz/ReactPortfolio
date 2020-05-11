@@ -1,6 +1,7 @@
 import React from "react";
 import {Col, Row, Container} from "../../components/Grid";
 import "./style.css";
+import picture from "../../images/fairwaypromotionsScreenshot.png"
 
 export default function Portfolio() {
 
@@ -28,6 +29,22 @@ export default function Portfolio() {
                             </p>
 
                             <a href="http://whats-in-my-pantry.herokuapp.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
+
+                        </div>
+                    </div>
+                </Col>
+                <Col size="lg-4 md-6">
+                    <div className="card">
+                        <img src={picture} alt="Fairway Promotions, Inc."/>
+
+                        <div className="card-body">
+                            <h1 className="card-title">Fairway Promotions, Inc.</h1>
+
+                            <p className="card-text">
+                                Fairway Promotions, Inc. is a small company that focuses on selling promotional tech products to companies to promote their business. Right now Fairway Promotions, Inc. has one product you can purchase right now! Ecommerce made with stripe api.
+                            </p>
+
+                            <a href="https://fairwaypromotionsinc.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
                     </div>
@@ -90,21 +107,6 @@ export default function Portfolio() {
                             </p>
                             
                             <a href="https://collinchiz.github.io/psychic-game/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
-
-                        </div>
-                    </div>
-                </Col>
-                <Col size="lg-4 md-6">
-                <div className="card">
-                    <img src="https://media.giphy.com/media/tKX6FNU9UGwF2/giphy.gif" alt="Train Scheduler"/>
-                        <div className="card-body">
-                            <h1 className="card-title">Train Scheduler</h1>
-
-                            <p className="card-text">
-                                Train Scheduler is an example application that takes the name of a train, the first train time, and the trains stop frequency. Then it uses your local time to calculate the next arrival and how many minutes until the trains arrival.
-                            </p>
-                            
-                            <a href="https://collinchiz.github.io/Train-Scheduler/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">VISIT SITE</a>
 
                         </div>
                     </div>
